@@ -1,10 +1,10 @@
   [<img src="./assets/MIT.png"  width="50" height="50">](#license)
 
-# title
+# readmecreator
 
 ## Description
 
-description
+a command line promp node based application that creates a readme specific to your project base on questions.
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -16,20 +16,20 @@ description
 
 ## Installation
 
-nmp i
+to install the application just clone the repo from git hub, then install with npm i
 ## Usage
 
-npm start
+after installation use npm start to run the application and follow the prompts
 ## License
 
 This application is licensed under the MIT license, you can read more about MIT licensing
 [here](https://en.wikipedia.org/wiki/MIT_License)
 ## Contributing
 
-none
+no contributions are accepted at this time.
 ## Tests
 
-none
+no tests are needed at this time.
 ## Questions
 
 Link to my github [profile](https://github.com/brinton0739)
